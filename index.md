@@ -2,17 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Summary of Experience
 
-[Link to another page](./another-page.html).
+	Excellent hands on experience with Teradata Utilities.
 
-There should be whitespace between paragraphs.
+	Excellent skills in programming with Teradata SQL, JCL, COBOL.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+	Got Pattern right for developing Excel VB Marco in Automating Metrics sheet for Bank of America Patent right publication no US 2015/0135168 A1.
 
-# Header 1
+	Completed the Automation for a manual work from 5 hours to 5 minutes of task using Mainframe and Teradata.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+	Completed Teradata Vantage 16.0 and ITIL V4 certification.
+
+	Experience in Full Life Cycle Implementation that involves Analysis, Design, Coding, Production Support, and Customization & Testing under Windows environment.
+
+	Good knowledge on deploying and configuring applications on Application Server.
+
+	Involved in implementation and enhancing the system according to the client requirements.
+
+	Providing support by handling priority tickets.
+
+	Identifying the root cause of the problem and providing solutions with Preparation of Short form project document which involves in preparing low level design, high level design, implementation notes, back out plan and test cases.
+
+	Involved in the server up gradation and production deployments. 
+
+	Excellent hands on experience in Coding VB Macros.
+
+	Maintain positive communications and working relationships at all business levels.
+
 
 ## Header 2
 
